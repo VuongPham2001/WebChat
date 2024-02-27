@@ -1,2 +1,2 @@
-# WebChat
+# MiniWebChat - Socket.io
  
